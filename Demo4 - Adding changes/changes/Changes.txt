@@ -1,0 +1,2 @@
+AddNewCustomerTable.idempotent.sql
+AddCustomerView.attempt2.sql
